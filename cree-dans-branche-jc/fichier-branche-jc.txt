@@ -1,4 +1,4 @@
 1 2 3 Soleil...
 ligne cree dans branche b2
-ajout d'une ligne par jc
-ajout d'une 4eme ligne et suppression de la premiere qui etait vide.
+ajout ligne par bob
+
